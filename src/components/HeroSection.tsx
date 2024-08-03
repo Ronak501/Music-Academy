@@ -18,6 +18,7 @@ function HeroSection() {
           journey today. Whether you're a beginner or looking to refine your
           skills, join us to unlock your true potential.
         </p>
+        <br/>
         <div className="mt-4">
           <Link href={"/courses"}>
             <Button
